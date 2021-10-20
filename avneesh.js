@@ -1,5 +1,5 @@
 student = {
-    firstName: 'Udit',
+    firstName: 'Aditya',
     lastName: 'Rungta',
     studentAge: 30,
     enrollmentNo: 'A2305218449',
